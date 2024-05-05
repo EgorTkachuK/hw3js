@@ -1,0 +1,8 @@
+// let my = ("My")
+// // let myChange = (my.padEnd)
+// let name = ("name")
+// // let nameChange = (name.padEnd)
+// let is = ("is")
+// let fullName = ( my +   name   + is )
+//  let finallFullNAme = (fullName + "Victor")
+//  console.log(fullName , finallFullNAme)
